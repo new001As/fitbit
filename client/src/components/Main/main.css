@@ -1,0 +1,27 @@
+.image-center{
+    border-radius: 50%;
+    max-height: 500px;
+    max-width: 500px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph{
+    padding-top: 20px;
+}
+
+.buttons{
+    padding-left: 5%;
+    margin-left: 10%;
+}
+
+.buttoncentre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+

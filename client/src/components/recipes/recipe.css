@@ -1,0 +1,33 @@
+ .search-form{
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-bar{
+  width: 160px;
+
+  padding: 10px;
+  border: none ;
+  box-shadow: 5px 5px 15px 5px  rgb(138, 117, 255);
+  }
+
+  ::-webkit-input-placeholder {
+    text-align: center;
+  }
+  
+  .search-button{
+    background: #3f51b5;
+    margin: 15px;
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    box-shadow: 0 8px 16px 0 #9eb9e9, 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+  
+  .recipes{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  }
